@@ -36,10 +36,10 @@
 // var secretnumber= 3
 // var num= +prompt("Guess the secret number")
 
-// if (num >=4) {
+// if (num >=6) {
 //   alert ("Guess number is high")} 
 
-// if (num <=2) {
+// if (num <=4) {
 //    alert ("Guess number is low")}
 // if (num==secretnumber) {
 //   alert ("Congratulation.. You successfully Guessed the number")}
@@ -53,7 +53,7 @@
 
 // var q=prompt("Enter Your Name")
 
-// var username= "qurat ul ain";
+// var username= "Maryam Haroon";
 // var username = (username.charAt(0).toUpperCase()+username.slice(1));
 
 // alert(username);
@@ -97,7 +97,7 @@
 // Task 07 
 
 // var nationality = prompt("Enter Your Nationality")
-// if (nationality == "pakistani" || nationality == "Pakistani" || nationality == "Indian" || nationality == "indian") {
+// if (nationality == "Pakistani" || nationality == "Pakistani" || nationality == "Indian" || nationality == "Indian") {
 //   var gender = prompt("Enter Gender")
 //   var age = +prompt("Enter Age")
 //   if (gender == "male" || gender == "Male") {
@@ -121,9 +121,9 @@
 
 //Task 08
 
-// var WorldCupSquad=['Babar Azam','Shadab Khan', 'Asif Ali', 'Fakhar Zaman',' Haider Ali', 'Haris Rauf', 'Iftikhar Ahmed', 'Khushdil Shah', 'Mohammad Hasnain',' Mohammad Nawaz', 'Mohammad Rizwan', 'Mohammad Wasim',' Naseem Shah','Shaheen Shah Afridi',' Shan Masood']
+// var WorldCupSquad=['Babar Azam','Shadab Khan', 'Shaheen  Shah Afridi', 'Fakhar Zaman',' Imam-ul- Haq', 'Haris Rauf', 'Iftikhar Ahmed', 'Muhammad Haris', 'Mohammad Hasnain',' Mohammad Nawaz', 'Mohammad Rizwan', 'Mohammad Wasim',' Naseem Shah','Shahnawaz Dahani',' Shan Masood']
 // alert  (WorldCupSquad)
-// var  Finalteamplayers= ['Babar Azam','Shadab Khan', 'Asif Ali', 'Fakhar Zaman',' Haider Ali', 'Haris Rauf', 'Iftikhar Ahmed', 'Khushdil Shah', 'Mohammad Hasnain',' Mohammad Nawaz', 'Mohammad Rizwan']
+// var  Finalteamplayers= ['Babar Azam','Shadab Khan', 'Shaheen Shah Afridi', 'Fakhar Zaman','Imam-ul-Haq', 'Haris Rauf', 'Iftikhar Ahmed', 'Muhammad Haris', 'Mohammad Hasnain',' Mohammad Nawaz', 'Mohammad Rizwan']
 // alert (Finalteamplayers)
 
 
