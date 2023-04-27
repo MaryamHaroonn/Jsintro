@@ -33,7 +33,7 @@
 
 // Task 03 
 
-// var secretnumber= 3
+// var secretnumber= 5
 // var num= +prompt("Guess the secret number")
 
 // if (num >=6) {
@@ -53,7 +53,7 @@
 
 // var q=prompt("Enter Your Name")
 
-// var username= "Maryam Haroon";
+// var username= "Maryam";
 // var username = (username.charAt(0).toUpperCase()+username.slice(1));
 
 // alert(username);
